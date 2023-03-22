@@ -1,0 +1,4 @@
+﻿  KelasOnline.cpp
+E:\perkuliahan\kuliah\tugas kuliah\s2\pemograman dasar\kelas online\KelasOnline\KelasOnline.cpp(9,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\perkuliahan\kuliah\tugas kuliah\s2\pemograman dasar\kelas online\KelasOnline\KelasOnline.cpp(13,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  KelasOnline.vcxproj -> E:\perkuliahan\kuliah\tugas kuliah\s2\pemograman dasar\kelas online\KelasOnline\x64\Debug\KelasOnline.exe
